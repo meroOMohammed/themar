@@ -1,0 +1,2 @@
+D:/AMIT/Themar/android/app/.cxx/Debug/3x6x1l3e/x86_64/CMakeFiles/edit_cache.dir
+D:/AMIT/Themar/android/app/.cxx/Debug/3x6x1l3e/x86_64/CMakeFiles/rebuild_cache.dir
